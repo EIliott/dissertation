@@ -1,0 +1,3 @@
+[submodule "dissertation/submodule"]
+	path = dissertation/submodule
+	url = https://github.com/mbzuai-nlp/SemEval2024-task8.git
